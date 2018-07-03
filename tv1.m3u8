@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,TV1 MALAYSIA
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
